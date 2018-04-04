@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "TagsSidebar",
+    "version": "1.9.9",
+    "description": "Simple add-on that allows quick and easy browsing your bookmarks by the tags.",
+    "icons": {
+        "48": "icons/icon48.png",
+        "96": "icons/icon96.png"
+    },
+    "applications": {
+        "gecko": {
+            "id": "tagssidebar@ondrejd.com"
+        }
+    }
+}
